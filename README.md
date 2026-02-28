@@ -9,3 +9,4 @@ class Solution:
             right -= 1
         
         return arr
+<img width="1893" height="515" alt="Screenshot 2026-02-28 112628" src="https://github.com/user-attachments/assets/0862b9b7-a019-40e4-8a46-7a688edf94c9" />
